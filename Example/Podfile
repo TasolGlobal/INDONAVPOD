@@ -1,0 +1,6 @@
+use_frameworks!
+target 'INDONAVPOD_Tests' do
+  pod 'INDONAVPOD', :path => '../'
+  
+  
+end
