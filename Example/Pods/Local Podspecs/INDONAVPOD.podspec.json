@@ -1,0 +1,22 @@
+{
+  "name": "INDONAVPOD",
+  "version": "0.1.0",
+  "summary": "A short description of INDONAVPOD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TasolGlobal/INDONAVPOD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TasolGlobal": "arvind@tasolglobal.com"
+  },
+  "source": {
+    "git": "https://github.com/TasolGlobal/INDONAVPOD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "INDONAVPOD/Classes/**/*"
+}

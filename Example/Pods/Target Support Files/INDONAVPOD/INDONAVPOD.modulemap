@@ -1,0 +1,6 @@
+framework module INDONAVPOD {
+  umbrella header "INDONAVPOD-umbrella.h"
+
+  export *
+  module * { export * }
+}
